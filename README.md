@@ -3,5 +3,5 @@
 Referente a aula da DIO sobre Git e GitHub
 
 * Cheesecake 
-* suco
+* Bolo de banana
 * Pavê
