@@ -1,6 +1,6 @@
 # Livro de Receitas :man_cook:
 
-Referente a aula da DIO sobre Git e GitHub
+Referente a aulas da DIO sobre Git e GitHub
 
 * Cheesecake 
 * Bolo de chocolate
